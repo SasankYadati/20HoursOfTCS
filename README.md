@@ -6,7 +6,7 @@ Theoretical computer science (TCS) is a subset of general computer science and m
 
 ## Idea
 
-It takes roughly 20 hours to make a good progress in a new skill. It involves 4 steps.
+It takes roughly 20 hours to make good progress in a new skill. It involves 4 steps.
 
 ### 1. Deconstruct the skill
 ### 2. Learn enough to self correct
